@@ -1,0 +1,28 @@
+Summary,Issue key,Issue Type,Status,Priority,Assignee,Reporter,Creator
+New SSRS Report for Delivery Extract,JBSPS-228,Story,Backlog,Highest,swapna_biswal,Yerram  Munisekhar,Yerram  Munisekhar
+Branch Managers Getting an Error when selecting Include cash in the DA screen,JBSPS-226,Bug,Waiting for Customer Update,High,Surendhar JP,Ashwin Pradeep Heblekar,Ashwin Pradeep Heblekar
+Report | Fees Collected by Cashier | Missing Cashiers From Report,JBSPS-225,Bug,In Progress,Medium,Ranjana Dongre,Harish Prabhakar Patil,Harish Prabhakar Patil
+Script review,JBSPS-224,Sub-task,In Progress,Medium,Swati Ghotgalkar,Swati Ghotgalkar,Swati Ghotgalkar
+"GDIEC-228 COSACs POS Closure> Transactions related to fees are not reflected in the complete amount of the transaction in the POS. At the end of the day, that amount will have a difference in the POS closure.",JBSPS-221,Bug,Waiting for Customer Update,High,Deepak BA,kranthi Kumar,kranthi Kumar
+Data extraction from Database-Samjith ,JBSPS-219,Sub-task,Backlog,Medium,Deepak BA,Deepak BA,Deepak BA
+Fee Calculation wrong,JBSPS-218,Sub-task,In Progress,Medium,Prasad R Kulkarni,Shilpa Barman,Shilpa Barman
+Unable to reinstall Cosacs application,JBSPS-211,Bug,Backlog,Medium,Kiran Kumar Kapalavoi,Surendhar JP,Surendhar JP
+Branch Managers no longer has access to the RF accounts in the DA screen,JBSPS-210,Bug,Waiting for Customer Update,Highest,Surendhar JP,Surendhar JP,Surendhar JP
+Unable to generate data from the Weekly Trading Report (WTR) -- Issue Linked to old ticket JBSPS -80,JBSPS-209,Bug,Waiting for Customer feedback,Medium,Ashwin Pradeep Heblekar,Surendhar JP,Surendhar JP
+Develop Daily Reversal script for GDIEC-231 (https://infoglobal-tech.atlassian.net/browse/JBSPS-206),JBSPS-208,Task,Backlog,Highest,Ranjana Dongre,Palanikumar S,Palanikumar S
+GDIEC-231 - Cosacs - Bailiff Fees - BA ,JBSPS-207,Sub-task,In Progress,Medium,Shilpa Barman,Shilpa Barman,Shilpa Barman
+GDIEC-231 -Fee Calculation wrong ; Incorrect amount sent to Mambu ; Incorrect amount shown in CoSaCS; Fee transaction not added to Cashier total,JBSPS-206,Task,In Progress,Highest,Sudhir Dutt,Shilpa Barman,Shilpa Barman
+GDIEC-226 - Accounts reflecting code 6 when refresh goes to code 3 regardless of the arrears level and revert to 6 the following day ,JBSPS-205,Task,Waiting for Customer Update,High,Ashwin Pradeep Heblekar,Shilpa Barman,Shilpa Barman
+GDIEC-221 | Cosacs UAT - Failure on the Create Report Summary Data - Full Refresh job - BA,JBSPS-201,Sub-task,Waiting for Customer feedback,Medium,Harish Prabhakar Patil,chetank,chetank
+List of Cosacs Accounts with Early Settlement Payments,JBSPS-200,Task,In Progress,High,suresh subudhi,Shilpa Barman,Shilpa Barman
+GDIEC-227 - There are a lot of calls to the same API loan-account-transactions from Cosacs ,JBSPS-199,Bug,In Progress,Medium,Swati Ghotgalkar,Shilpa Barman,Shilpa Barman
+GDIEC-222 - Cosacs UAT - Product Import job failed,JBSPS-195,Bug,Waiting for Customer feedback,High,Harish Prabhakar Patil,Harish Prabhakar Patil,Harish Prabhakar Patil
+GDIEC-221 | Cosacs UAT - Failure on the Create Report Summary Data - Full Refresh job,JBSPS-194,Bug,Waiting for Customer feedback,High,Harish Prabhakar Patil,Harish Prabhakar Patil,Harish Prabhakar Patil
+GDIEC- 220- Payments pending applied in Mambu because of connection loss from Cosacs (ON HOLD),JBSPS-191,Bug,Waiting for Customer Update,Medium,Swati Ghotgalkar,kranthi Kumar,kranthi Kumar
+GDIEC-209-Unable to process repossession (On Hold),JBSPS-160,Bug,Waiting for Customer feedback,Medium,Swati Ghotgalkar,Deepak BA,Deepak BA
+GDIEC-196 Accounts over 90 days are not populating for allocation - BA,JBSPS-135,Sub-task,In Progress,Medium,Surendhar JP,Shilpa Barman,Shilpa Barman
+GDIEC-196 Accounts over 90 days are not populating for allocation,JBSPS-131,Bug,In Progress,Medium,Geetha Malleswari Bathula,kranthi Kumar,kranthi Kumar
+GDIEC-198 Inability to view references,JBSPS-127,Bug,In Progress,High,TC Aanandan,kranthi Kumar,kranthi Kumar
+EPI file still not processed after 1 hour .. Is there anything we can check to see if the process is still running.,JBSPS-45,Improvement,In Progress,Medium,suresh subudhi,Surendhar JP,Surendhar JP
+"GDIEC-94 - Cosacs / MerSys:- Credit Sales not showing in Stock Movement from August 1, 2022",JBSPS-41,Task,Waiting for Customer feedback,Highest,karthik,Shilpa Barman,Shilpa Barman
+10.192.26.198-Cashier Deposits--> We are not able to view the amount in the top grid of the Cashier Deposits screen.,JBSPS-227,Bug,In Progress,Highest,Devarasu,karthik,karthik
